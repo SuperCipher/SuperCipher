@@ -1,4 +1,9 @@
 <h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/napat-charuphant/">Pat</a></h2>
+
+I'm a software engineer really in love with functional programming.
+Right now I'm learning about category theory PureScript Rust and Cardano blockchain.
+Hit me up if you have some interesting project I can contribute to.
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
