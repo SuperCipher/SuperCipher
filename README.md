@@ -4,7 +4,7 @@ I'm a software engineer really in love with functional programming.
 Right now I'm learning about category theory PureScript, Rust, FP Software Architecture and Algorithm and Cardano blockchain.
 Hit me up if you have some interesting project I can contribute to.
 
-- 👯 I’m looking to collaborate on [Hyperlink.cash](https://hyperlink.cash/)  [Tally Ho clone](https://github.com/SuperCipher/tally-ho-extension)
+- 👯 I’m looking to collaborate on [Hyperlink.cash](https://hyperlink.cash/) , [Tally Ho clone](https://github.com/SuperCipher/tally-ho-extension)
   
 - 🤝 I’m looking for help with [Purescript book](https://github.com/SuperCipher/purescript-book/tree/master)  
   
