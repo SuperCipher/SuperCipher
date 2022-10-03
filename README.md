@@ -12,7 +12,7 @@ Hit me up if you have some interesting project I can contribute to.
   
 - 📝 I regularly write articles on [https://leiden.capital/](https://leiden.capital/)  
   
-- 💬 Ask me about **Bitcoin Ethereum Blockchain**  
+- 💬 Ask me about **Bitcoin, Ethereum, Blockchain**  
   
 - 📫 How to reach me **napat.charuphant1@gmail.com**  
   
