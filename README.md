@@ -26,7 +26,7 @@ Hit me up if you have some interesting project I can contribute to.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperCipher&langs_count=8&count_private=true&layout=compact&show_icons=true&hide=javascript,html,jupyter%20notebook" alt="SuperCipher" />
 
 # Portfolio 
-##(Public project):
+## (Public project):
 
 https://monet.market/
 
@@ -34,7 +34,7 @@ https://bitcoincashresearch.org/t/chip-2021-03-multiple-op-returns-for-bitcoin-c
 
 https://cryptoknights.games/
 
-##(Individual Public project):
+## (Individual Public project):
 ### Blockchain
 
 https://github.com/SuperCipher/hyperlink-cash
