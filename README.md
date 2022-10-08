@@ -34,6 +34,8 @@ https://bitcoincashresearch.org/t/chip-2021-03-multiple-op-returns-for-bitcoin-c
 
 https://cryptoknights.games/
 
+https://blockchain-ads.com/
+
 ## (Individual Public project):
 ### Blockchain
 
