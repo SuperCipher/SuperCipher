@@ -36,6 +36,12 @@ https://cryptoknights.games/
 
 https://blockchain-ads.com/
 
+https://github.com/ActorForth/bch-devsuite
+
+https://github.com/ActorForth/Auction-Protocol
+
+https://github.com/ActorForth/bitcoincash-research/blob/master/OR_RETURNs_proposal.md
+
 ## (Individual Public project):
 ### Blockchain
 
