@@ -28,23 +28,35 @@ Hit me up if you have some interesting project I can contribute to.
 # Portfolio 
 ## (Public project):
 
-https://monet.market/
+1. https://monet.market/
 
-https://bitcoincashresearch.org/t/chip-2021-03-multiple-op-returns-for-bitcoin-cash/315
+Extend Ethereum first of it’s kind NFT multibid auction frontend application https://monet.market/ using Elm
 
-https://cryptoknights.games/
-
-https://blockchain-ads.com/
-
-https://github.com/ActorForth/bch-devsuite
-
-https://github.com/ActorForth/Auction-Protocol
+2. https://bitcoincashresearch.org/t/chip-2021-03-multiple-op-returns-for-bitcoin-cash/315
 
 https://github.com/ActorForth/bitcoincash-research/blob/master/OR_RETURNs_proposal.md
 
-https://github.com/ActorForth/SLPDB
+Research and propose Bitcoin Cash
 
-https://bitcoincashresearch.org/t/chip-2021-03-multiple-op-returns-for-bitcoin-cash/315
+3. https://cryptoknights.games/
+
+Create NFT
+
+4. https://github.com/ActorForth/SLPDB (Opensource)
+
+Extend Simple Ledger Protocol indexer SLPDB to work with Regtest address using Node.js
+
+5. https://blockchain-ads.com/web3-cookie/
+
+Web3 wallet integration using Metamask, WalletConnect, React, Ether.js https://github.com/ Blockchain-Ads/web3-cookie
+
+6. https://github.com/ActorForth/bch-devsuite (Opensource)
+
+Create Bitcoincash developer tools
+
+7. https://github.com/ActorForth/Auction-Protocol
+
+POC Defi protocol
 
 ## (Individual Public project):
 ### Blockchain
