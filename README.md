@@ -42,6 +42,10 @@ https://github.com/ActorForth/Auction-Protocol
 
 https://github.com/ActorForth/bitcoincash-research/blob/master/OR_RETURNs_proposal.md
 
+https://github.com/ActorForth/SLPDB
+
+https://bitcoincashresearch.org/t/chip-2021-03-multiple-op-returns-for-bitcoin-cash/315
+
 ## (Individual Public project):
 ### Blockchain
 
